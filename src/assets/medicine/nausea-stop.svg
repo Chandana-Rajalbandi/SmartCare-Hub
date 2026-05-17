@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" fill="none">
+  <rect width="640" height="480" rx="28" fill="#f8fafc"/>
+  <rect x="30" y="30" width="580" height="420" rx="30" fill="url(#bg)"/>
+  <circle cx="112" cy="112" r="54" fill="white" opacity="0.22"/>
+  <circle cx="520" cy="360" r="68" fill="white" opacity="0.18"/>
+  <rect x="58" y="62" width="190" height="26" rx="13" fill="white" opacity="0.90"/>
+  <rect x="58" y="100" width="145" height="14" rx="7" fill="white" opacity="0.70"/>
+  <text x="58" y="190" fill="#0f172a" font-size="34" font-weight="700" font-family="Arial, Helvetica, sans-serif">NauseaStop</text>
+  <text x="58" y="230" fill="#334155" font-size="22" font-weight="600" font-family="Arial, Helvetica, sans-serif">25mg Tablets</text>
+  <rect x="58" y="256" width="122" height="34" rx="17" fill="white" opacity="0.95"/>
+  <text x="88" y="279" fill="#14b8a6" font-size="18" font-weight="700" font-family="Arial, Helvetica, sans-serif">12 Tabs</text>
+  <g>
+        <rect x="180" y="120" width="190" height="150" rx="22" fill="white" stroke="#bfdbfe" stroke-width="6"/>
+        <rect x="200" y="145" width="90" height="90" rx="18" fill="#14b8a6" opacity="0.15"/>
+        <circle cx="245" cy="190" r="24" fill="#14b8a6" opacity="0.30"/>
+        <rect x="305" y="152" width="42" height="14" rx="7" fill="#cbd5e1"/>
+        <rect x="305" y="176" width="52" height="14" rx="7" fill="#cbd5e1"/>
+        <rect x="305" y="200" width="36" height="14" rx="7" fill="#cbd5e1"/>
+        </g>
+  <g opacity="0.95">
+    <rect x="58" y="336" width="110" height="56" rx="18" fill="white"/>
+    <circle cx="92" cy="364" r="16" fill="#14b8a6" opacity="0.22"/>
+    <path d="M84 364h16M92 356v16" stroke="#14b8a6" stroke-width="4" stroke-linecap="round"/>
+    <text x="120" y="370" fill="#1e293b" font-size="16" font-weight="700" font-family="Arial, Helvetica, sans-serif">Trusted</text>
+    <text x="120" y="388" fill="#64748b" font-size="13" font-family="Arial, Helvetica, sans-serif">care</text>
+  </g>
+  <defs>
+    <linearGradient id="bg" x1="58" y1="62" x2="575" y2="418" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white"/>
+      <stop offset="1" stop-color="#eef2ff"/>
+    </linearGradient>
+  </defs>
+</svg>
